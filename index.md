@@ -14,32 +14,6 @@ Email: wuzaiqiang(AT)zju.edu.cn
 - _Zaiqiang Wu_, Wei Jiang*, Hongyan Yu, Analytical Derivatives for Differentiable Renderer: 3D Pose Estimation by Silhouette Consistency, Journal of Visual Communication and Image Representation ,https://doi.org/10.1016/j.jvcir.2020.102960, 2020.
 - _Zaiqiang Wu_, Wei Jiang*, Hao Luo, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. Applied Science, 2019. DOI:10.3390/app9030400
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Awards
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZaiqiangWu/wuzaiqiang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 2019, National schoalrship
