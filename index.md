@@ -1,11 +1,12 @@
 ## Zaiqiang Wu
 
-I am a Master's student at Zhejiang University, supervised by Prof. Wei Jiang
+I am a Master's student at Zhejiang University, supervised by [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei#0).
+Email: wuzaiqiang@zju.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
+- ME degree in Control Science and Engineering from Zhejiang University, China in 2020
+- BE degree in Electrical Engineering from Harbin Institute of Technology, China in 2017
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
