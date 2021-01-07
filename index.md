@@ -2,7 +2,7 @@
 
 I am a Master's student at Zhejiang University, supervised by [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei#0).
 
-Email: wuzaiqiang(AT)zju.edu.cn
+Email: wuzaiqiang(at)zju.edu.cn
 
 ### Education
 
