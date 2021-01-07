@@ -9,6 +9,8 @@ Email: wuzaiqiang(AT)zju.edu.cn
 - ME degree in Control Science and Engineering from Zhejiang University, China. 2017 - 2020
 - BE degree in Electrical Engineering from Harbin Institute of Technology, China. 2013 - 2017
 
+
+
 ### Publications
 
 - _Zaiqiang Wu_, Wei Jiang*, Hongyan Yu, Analytical Derivatives for Differentiable Renderer: 3D Pose Estimation by Silhouette Consistency, Journal of Visual Communication and Image Representation ,https://doi.org/10.1016/j.jvcir.2020.102960, 2020.
