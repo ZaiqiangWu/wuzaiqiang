@@ -6,7 +6,7 @@ Email: wuzaiqiang(at)zju.edu.cn
 
 ### Education
 
-- ME degree in Control Science and Engineering from Zhejiang University, China. 2017 - 2020
+- M.Sc degree in Control Science and Engineering from Zhejiang University, China. 2017 - 2020
 - BE degree in Electrical Engineering from Harbin Institute of Technology, China. 2013 - 2017
 
 
