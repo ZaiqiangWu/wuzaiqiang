@@ -18,4 +18,4 @@ Email: wuzaiqiang(at)zju.edu.cn
 
 ### Awards
 
-- 2019, National schoalrship
+- 2019, Chinese National schoalrship
