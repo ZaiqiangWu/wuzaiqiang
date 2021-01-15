@@ -13,8 +13,8 @@ Email: wuzaiqiang(at)zju.edu.cn
 
 ### Publications
 
-- _Zaiqiang Wu_, Wei Jiang*, Hongyan Yu, Analytical Derivatives for Differentiable Renderer: 3D Pose Estimation by Silhouette Consistency, Journal of Visual Communication and Image Representation ,https://doi.org/10.1016/j.jvcir.2020.102960, 2020.
-- _Zaiqiang Wu_, Wei Jiang*, Hao Luo, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. Applied Science, 2019. DOI:10.3390/app9030400
+- **Zaiqiang Wu**, Wei Jiang*, Hongyan Yu, Analytical Derivatives for Differentiable Renderer: 3D Pose Estimation by Silhouette Consistency, Journal of Visual Communication and Image Representation ,https://doi.org/10.1016/j.jvcir.2020.102960, 2020.
+- **Zaiqiang Wu**, Wei Jiang*, Hao Luo, Lin Cheng. A Novel Self-intersection Penalty Term for Statistical Body Shape Models and Its Applications in 3D Pose Estimation. Applied Science, 2019. DOI:10.3390/app9030400
 
 ### Awards
 
